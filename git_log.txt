@@ -1,0 +1,41 @@
+commit d47c8381a80fa6c3c610cc99383b617256c67f02
+Author: Catherine Li <lxxcat004@myuct.ac.za>
+Date:   Sun May 4 22:04:07 2025 +0200
+
+    saving fiinal adjustments made to cpu utilization
+
+commit e2a9d65e7837eae5b06ec235491d0f48ba66c99b
+Author: Catherine Li <lxxcat004@myuct.ac.za>
+Date:   Mon Apr 28 11:08:14 2025 +0200
+
+    automated quantum testing
+
+commit 0075abe608330564c4c00289ce56c3a85024f350
+Author: Catherine Li <lxxcat004@myuct.ac.za>
+Date:   Thu Apr 24 10:46:03 2025 +0200
+
+    changed the measurement so i only record data at the end
+
+commit b8cf8d30cec7c80946241a3855ce1cfcbed254c7
+Author: Catherine Li <lxxcat004@myuct.ac.za>
+Date:   Thu Apr 24 10:30:41 2025 +0200
+
+    fixed mistake for waiting time metric
+
+commit a0834236c93d7e2cc394a4838605550e9e8e55a4
+Author: Catherine Li <lxxcat004@myuct.ac.za>
+Date:   Sun Apr 20 21:51:45 2025 +0200
+
+    added cpu utilization data collection code
+
+commit faedd2adb7bbdb2db10648112690eac44ea12bef
+Author: Catherine Li <lxxcat004@myuct.ac.za>
+Date:   Sun Apr 20 20:27:15 2025 +0200
+
+    added throughput timer
+
+commit 1f45926b2d13ce90cd1e9f6b44708921b3d53f77
+Author: Catherine Li <lxxcat004@myuct.ac.za>
+Date:   Sun Apr 20 15:00:06 2025 +0200
+
+    added turnaround time and waiting time recording

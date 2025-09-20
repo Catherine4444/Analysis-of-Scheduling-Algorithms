@@ -1,1 +1,1 @@
-This folder contains the initial data that was used to generate the graphs seen in graphs/
+This folder contained the initial data that was used to generate the graphs seen in graphs/
